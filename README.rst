@@ -26,6 +26,7 @@ Install
 Global installation
 ^^^^^^^^^^^^^^^^^^^
 
+Hello
 You can install nodeenv globally with `easy_install`_::
 
     $ sudo easy_install nodeenv
